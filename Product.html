@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Console</title>
+</head>
+<body>
+    <h1>Open Console to See Products</h1>
+    <script>
+        // Fetch products from the API
+        fetch('http://localhost:3000/products')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.json();
+            })
+            .then(data => {
+                console.log('Products:', data);
+            })
+            .catch(error => {
+                console.error('Error fetching products:', error);
+            });
+    </script>
+</body>
+</html>
