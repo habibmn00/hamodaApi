@@ -1,0 +1,100 @@
+
+{
+    "products": [
+      {
+        "id": "1",
+        "name": "Canson",
+        "description": "Canson Format Raisin (Lot de 10 feuilles) 150g/m²",
+        "price": 60,
+        "category": "",
+        "images": [
+          "canson.png"
+        ] 
+      }, 
+      {
+        "id": "2",
+        "name": "Canson A3",
+        "description": "Paquet Canson A3 (180g/m²) Papier Dessin Blanc",
+        "price": 40,
+        "category": "",
+        "images": [
+          "cansona3.png"
+        ] 
+      }, {
+        "id": "3",
+        "name": "Mines",
+        "description": "Mines FABER-CASTEL 0.5mm",
+        "price": 30,
+        "category": "",
+        "images": [
+          "minesfaber.png"
+        ] 
+      }, {
+        "id": "4",
+        "name": "Mines",
+        "description": "Mines FABER-CASTEL 0.35mm",
+        "price": 30,
+        "category": "",
+        "images": [
+          "mines0.35.png"
+        ] 
+      }, {
+        "id": "5",
+        "name": "Pencil",
+        "description": "Apollo Mechanical pencil (FABER-CASTEL) 0.5mm",
+        "price": 30,
+        "category": "",
+        "images": [
+          "pencil0.5.png"
+        ] 
+      },{
+        "id": "6",
+        "name": "Pencil",
+        "description": "Mechanical pencil (FABER-CASTEL) 0.35mm",
+        "price": 30,
+        "category": "",
+        "images": [
+          "pencil0.35.png"
+        ] 
+      },{
+        "id": "7",
+        "name": "Aquarelle",
+        "description": "Aquarelle (LEFRANC BOURGEOIS) Etude/Studio",
+        "price": 190,
+        "category": "",
+        "images": [
+          "aquarelle.png"
+        ] 
+      },{
+        "id": "8",
+        "name": "Adhesive",
+        "description": "TESA RLX Adhesive Masquage Tape 50x19",
+        "price": 13,
+        "category": "",
+        "images": [
+          "adhesive.png"
+        ] 
+      },{
+        "id": "9",
+        "name": "Carton plume",
+        "description": "Carton plume 5mm x 50cm x 70cm",
+        "price": 70,
+        "category": "",
+        "images": [
+          "cartonplume.png"
+        ] 
+      },{
+        "id": "10",
+        "name": "UHU",
+        "description": "Colle Tube UHU Pommade N 13 / 35g",
+        "price": 16,
+        "category": "",
+        "images": [
+          "uhu.png"
+        ] 
+      }
+      
+
+    ]
+  }
+  
